@@ -38,7 +38,7 @@ An AI-powered educational platform combining engaging UI/UX with intelligent bac
 ## 📈 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Danchi-1&show_icons=true&theme=tokyonight" alt="Daniel's GitHub stats" height="160"/>
-  <img src="https://github-readme-streak-stats.streak-stats.demolab.com/?user=Danchi-1&theme=tokyonight" alt="GitHub Streak" height="160"/>
+  <img src="https://streak-stats.demolab.com/?user=Danchi-1&theme=tokyonight&cache_seconds=3600" />
 </p>
 
 ---
