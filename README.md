@@ -25,10 +25,10 @@ My journey is driven by curiosity and a strong desire to create AI-powered solut
 ---
 
 ## 📂 Featured Projects  
-### 🔹 [hms_AI](https://github.com/Danchi-1/hms_AI)  
+### 🔹 [hms_AI](https://github.com/Danchi-1/hms.ai)  
 Health Monitoring System AI – A web/mobile app that connects to wearables via Bluetooth to collect and interpret health data, providing AI-driven health insights.  
 
-### 🔹 [EcoLearn AI](https://github.com/Danchi-1/ecolearn)  
+### 🔹 [EcoLearn AI]([https://github.com/Danchi-1/ecolearn](https://github.com/Danchi-1/EcoLearn_AI))  
 An AI-powered educational platform combining engaging UI/UX with intelligent backend integration to make learning more interactive and effective.  
 
 *(More projects available on my [repositories](https://github.com/Danchi-1?tab=repositories))*  
@@ -45,9 +45,9 @@ An AI-powered educational platform combining engaging UI/UX with intelligent bac
 
 ## 📬 Connect With Me  
 - 📧 **Email:** [ohachordaniel2021@gmail.com](mailto:ohachordaniel2021@gmail.com)  
-- 💼 **LinkedIn:** [Ohachor Daniel](https://www.linkedin.com/in/ohachor-daniel)  
+- 💼 **LinkedIn:** [Ohachor Daniel](www.linkedin.com/in/daniel-ohachor-94b721277)  
 - 📱 **WhatsApp:** [+234 8125662725](https://wa.me/2348125662725)  
 
 ---
 
-💡 *"Learning never exhausts the mind, but ignorance does."*  
+*"Learning never exhausts the mind, but ignorance does."*  
