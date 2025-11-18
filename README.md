@@ -28,7 +28,7 @@ My journey is driven by curiosity and a strong desire to create AI-powered solut
 ### 🔹 [hms_AI](https://github.com/Danchi-1/hms.ai)  
 Health Monitoring System AI – A web/mobile app that connects to wearables via Bluetooth to collect and interpret health data, providing AI-driven health insights.  
 
-### 🔹 [EcoLearn AI]([https://github.com/Danchi-1/ecolearn](https://github.com/Danchi-1/EcoLearn_AI))  
+### 🔹 [EcoLearn AI](https://github.com/Danchi-1/EcoLearn_AI)
 An AI-powered educational platform combining engaging UI/UX with intelligent backend integration to make learning more interactive and effective.  
 
 *(More projects available on my [repositories](https://github.com/Danchi-1?tab=repositories))*  
